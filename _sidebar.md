@@ -5,9 +5,9 @@
 
 * [Tutorials](./tutorials/index)
   * [Daz to Blender](./tutorials/daztoblender/index)
-  * [Instal](./tutorials/daztoblender/blenderinstal/index)
+  * [Instal](./tutorials/blenderinstal/index)
   * [Daz to Unreal](.tutorials/daztounreal/index)
-  * [Instal](./tutorials/daztounreal/unrealinstal/index)
+  * [Instal](./tutorials/unrealinstal/index)
 		
 * [About](./about/index)
 
