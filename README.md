@@ -1,3 +1,4 @@
-# Headline
+# DAZ Docs
 
-> An awesome project.
+> For dumb people at dumb times.
+
