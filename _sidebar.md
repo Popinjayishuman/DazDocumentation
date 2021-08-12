@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [HOME](/)
 
-* [Tutorials](.main/tutorials)
+* [Tutorials](main/tutorials)
